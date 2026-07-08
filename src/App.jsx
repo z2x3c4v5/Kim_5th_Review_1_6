@@ -1268,7 +1268,7 @@ export default function App() {
           <div className="absolute top-1 left-3 text-2xl md:text-3xl opacity-70 select-none pointer-events-none">🌊</div>
           <div className="absolute bottom-1 right-3 text-2xl md:text-3xl opacity-70 select-none pointer-events-none">⛱️</div>
           <h1 className="relative text-xl sm:text-2xl md:text-3xl font-black text-white leading-tight break-keep drop-shadow-[0_2px_0_rgba(2,132,199,0.9)]">
-            🏖️ 6학년 1-6단원 주요표현 보드게임{' '}
+            🏖️ 5학년 1-6단원 주요표현 보드게임{' '}
             <span className="text-yellow-200">with Writing</span> 🏄
           </h1>
         </div>
